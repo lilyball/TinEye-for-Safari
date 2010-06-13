@@ -55,8 +55,8 @@
 		</dict>
 	</dict>
 	<key>Update Manifest URL</key>
-	<string>http://kevin.sb.org/files/SafariExtensionUpdates.plist</string>
+	<string>http://github.com/kballard/TinEye-for-Safari/raw/master/tineye_update.plist</string>
 	<key>Website</key>
-	<string>http://kevin.sb.org/software/tineye-safari/</string>
+	<string>http://github.com/kballard/TinEye-for-Safari</string>
 </dict>
 </plist>
