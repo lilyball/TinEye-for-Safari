@@ -5,7 +5,7 @@ TinEye for Safari
 
 Installation
 ------------
-First, if you haven't already, you need to [enable extensions][enable]. Once enabled, go to the [downloads section][downloads] and grab the latest version. Then just double-click the downloaded file and Safari will prompt you to install. Once installed, you'll need to reload any existing tabs in order to use the extension on those tabs.
+First, if you haven't already, you need to [enable extensions][enable]. Once enabled, go to the [downloads section][downloads] and grab the latest version (be sure to grab the official download, not a tag). Then just double-click the downloaded file and Safari will prompt you to install. Once installed, you'll need to reload any existing tabs in order to use the extension on those tabs.
 
 Usage
 -----
